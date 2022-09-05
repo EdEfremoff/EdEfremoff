@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdEfremoff
-- 👀 I’m interested in JavaScript, TypeScript, ReactJS, NodeJS, MongoDB, SQL
+- 👀 I’m interested in JavaScript, TypeScript, React, NextJS, NodeJS, MongoDB, SQL
 - 🌱 I’m currently learning WebDev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
